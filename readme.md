@@ -56,6 +56,7 @@ The Census Trade API Query Tool allows users to retrieve and analyze internation
    ```bash
    python Census_API_Program.py
    ```
+   Alternatively you may use the Notebook Census_API_Program_NB.ipynb
 4. **Follow the Prompts**
 
    - Enter your API key if you have one.
