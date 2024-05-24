@@ -49,12 +49,12 @@ The Census Trade API Query Tool allows users to retrieve and analyze internation
 2. **Navigate to the Directory**
 
    ```bash
-   cd census-trade-api
+   cd <your saved directory>
    ```
 3. **Run the Program**
 
    ```bash
-   python trade_api.py
+   python Census_API_Program.py
    ```
 4. **Follow the Prompts**
 
