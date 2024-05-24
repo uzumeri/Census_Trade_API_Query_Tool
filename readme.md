@@ -44,7 +44,7 @@ The Census Trade API Query Tool allows users to retrieve and analyze internation
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rene-Jacobs/Census_Trade_API_Query_Tool.git
    ```
 2. **Navigate to the Directory**
 
